@@ -16,5 +16,9 @@ Clone con el siguiente comando:
 
 Captura
 ---
-![Captura](/img/captura.png)
+<div align="center">
+    <center>
+        <img src="/img/captura.png" width="200">
+    </center>
+</div>
 
